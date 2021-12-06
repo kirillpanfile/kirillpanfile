@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Panfile Kirill</h1>
-<h3 align="center">I'm a 3rd year student pursuing Master's in Computer Applications 🎓 from Centre of Excellence in Economics and Finance. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm deep into Web 🕸️ Development.</h3>
 
+<img align="center" src="https://cutewallpaper.org/21/js-wallpaper/Is-it-okay-to-build-sites-that-rely-on-JavaScript-.jpg" width="400"  />
 
-<img align="center" src="https://cutewallpaper.org/21/js-wallpaper/Is-it-okay-to-build-sites-that-rely-on-JavaScript-.jpg"  />
+<p align="center">I'm a 3rd year student pursuing Master's in Computer Applications 🎓 from Centre of Excellence in Economics and Finance. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm deep into Web 🕸️ Development.</p>
+
 
 
 - 🌱 I’m currently learning **Vue, Tailwindcss, Javascript**
