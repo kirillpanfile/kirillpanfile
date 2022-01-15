@@ -2,7 +2,7 @@
 
 <!-- <img align="center" src="https://cutewallpaper.org/21/js-wallpaper/Is-it-okay-to-build-sites-that-rely-on-JavaScript-.jpg" height="120"  /> -->
 
-<p align="center">I'm a 3rd year student pursuing Master's in Computer Applications 🎓 from Centre of Excellence in Economics and Finance. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm deep into Web 🕸️ Development.</p>
+<p align="center">I'm a 3rd year student pursuing Collage in Client Side Web Aplications 🎓 from Centre of Excellence in Economics and Finance. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm deep into Web 🕸️ Development.</p>
 
 <hr>
 
