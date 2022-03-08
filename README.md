@@ -6,9 +6,9 @@
 
 <hr>
 
-- 🌱 I’m currently learning **Vue, Tailwindcss, Javascript**
+- 🌱 I’m currently learning **Vue, TypeScript, Javascript**
 
-- 💬 Ask me about **vue, gulp, tailwindcss**
+- 💬 Ask me about **Vue.js, Gulp, TypeScript**
 
 - 📫 How to reach me **kirillpanfile@gmail.com**
 
